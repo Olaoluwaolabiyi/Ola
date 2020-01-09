@@ -1,3 +1,3 @@
 # Ola
 Hello World!
-John made my day
+John made my day!
